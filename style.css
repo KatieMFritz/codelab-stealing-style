@@ -2,11 +2,31 @@ body {
   max-width: 800px;
   margin: 10em auto;
   background-color: #aaa;
-  font-family: Verdana, sans-serif;
+  font-family: Georgia, times, serif;
 }
 
 main {
   background-color: #fff;
   padding: 3em;
   text-align: center;
+}
+
+h1 {
+  font-size: 6em;
+}
+
+#k {
+  color: #009652;
+}
+#a {
+  color: #DB4632;
+}
+#t {
+  color: #FFB702;
+}
+#i {
+  color: #1267E9;
+}
+#e {
+  color: #DB4632;
 }
